@@ -1,5 +1,5 @@
 ## Welcome ✌
-I'm a sophomore at the University of Southern California who loves computer science and web development! 👨‍💻 <br>
+I'm a junior at the University of Southern California who loves computer science and web development! 👨‍💻 <br>
 Make sure to check out my projects at <a href="https://iansbrash.com">✨iansbrash.com✨</a>
 
 ### My favorite technologies 🤩
