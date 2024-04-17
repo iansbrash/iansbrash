@@ -1,6 +1,6 @@
 ## Welcome ✌
-I'm a junior at the University of Southern California who loves computer science and web development! 👨‍💻 <br>
-Make sure to check out my projects at <a href="https://iansbrash.com">✨iansbrash.com✨</a>
+I'm a senior at the University of Southern California who loves computer science and web development! 👨‍💻 <br>
+Make sure to check out my company at <a href="https://trypickle.co">🥒trypickle.co🥒</a>
 
 ### My favorite technologies 🤩
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
